@@ -1,1 +1,1 @@
-# JavaScript-m-
+# JavaScript设计模式练习小DEMO
